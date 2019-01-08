@@ -1,4 +1,4 @@
-# Clean White Theme for Hugo
+# Clean White Theme for Hugo test
 
 CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.  
 
